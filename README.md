@@ -1,6 +1,8 @@
 # Wayne Enterprises | Enterprise Business Intelligence Suite (Power BI)
 **by Soham S. Amburle**
 
+Start Date: 10 April, 2026
+
 ## Project Overview
 
 This project simulates an **enterprise-grade Business Intelligence solution** for a diversified conglomerate similar to Wayne Enterprises, built using **Power BI** and a large-scale **synthetic dataset (~100,000 records)**.
