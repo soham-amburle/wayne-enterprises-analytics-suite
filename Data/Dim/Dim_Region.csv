@@ -1,0 +1,8 @@
+Region_ID,Country,City,Region_Type
+1,USA,Gotham,Domestic
+2,USA,Metropolis,Domestic
+3,USA,New York,Domestic
+4,UK,London,International
+5,Japan,Tokyo,International
+6,India,Mumbai,International
+7,Germany,Berlin,International

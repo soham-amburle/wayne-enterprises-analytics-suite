@@ -1,0 +1,16 @@
+Department_ID,Department_Name,Division_Type,Budget_Allocation
+1,Executive Strategy,Confidential,25862753
+2,Finance,Hybrid,27646485
+3,R&D,Hybrid,26171957
+4,Defense,Corporate,28195858
+5,Supply Chain,Confidential,66807400
+6,Operations,Hybrid,15758240
+7,Marketing,Confidential,76653750
+8,Sales,Confidential,99155199
+9,HR,Confidential,58693834
+10,Wayne Tech,Hybrid,74061820
+11,Bat Tech,Hybrid,35927697
+12,Gotham Intelligence,Confidential,15978199
+13,Security,Confidential,10718906
+14,CSR,Hybrid,34584321
+15,Innovation,Corporate,75948345
