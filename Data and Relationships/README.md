@@ -246,12 +246,65 @@ This project follows a **Hybrid Star Schema** approach, combining the performanc
 
 # 🔗 Relationships
 
-- All fact tables connect to **Dim_Date**
-- Fact tables connect to relevant dimensions:
-  - Sales → Product, Client, Date  
-  - HR → Employee, Date  
-  - Crime → Region, Date  
-  - Operations → Region, Department, Date  
+All relationships follow a **one-to-many (1 → *) structure** with **single-direction filtering (Dimension → Fact)**.
+
+---
+
+## Dim_Date Relationships
+
+- Dim_Date[Date_ID] → Fact_Sales[Date_ID]  
+- Dim_Date[Date_ID] → Fact_Finance[Date_ID]  
+- Dim_Date[Date_ID] → Fact_Operations[Date_ID]  
+- Dim_Date[Date_ID] → Fact_Marketing[Date_ID]  
+- Dim_Date[Date_ID] → Fact_HR[Date_ID]  
+- Dim_Date[Date_ID] → Fact_CrimeData[Date_ID]  
+- Dim_Date[Date_ID] → Fact_BatOperations[Date_ID]  
+- Dim_Date[Date_ID] → Fact_SupplyChain[Date_ID]  
+
+---
+
+## Dim_Department Relationships
+
+- Dim_Department[Department_ID] → Fact_Finance[Department_ID]  
+- Dim_Department[Department_ID] → Fact_Operations[Department_ID]  
+- Dim_Department[Department_ID] → Fact_RnD[Department_ID]  
+
+---
+
+## Dim_Region Relationships
+
+- Dim_Region[Region_ID] → Fact_Operations[Region_ID]  
+- Dim_Region[Region_ID] → Fact_CrimeData[Region_ID]  
+- Dim_Region[Region_ID] → Fact_SupplyChain[Region_ID]  
+
+---
+
+## Dim_Employee Relationships
+
+- Dim_Employee[Employee_ID] → Fact_HR[Employee_ID]  
+
+---
+
+## Dim_Product_Asset Relationships
+
+- Dim_Product_Asset[Product_ID] → Fact_Sales[Product_ID]  
+- Dim_Product_Asset[Product_ID] → Fact_BatOperations[Product_ID]  
+
+---
+
+## Dim_Client Relationships
+
+- Dim_Client[Client_ID] → Fact_Sales[Client_ID]  
+- Dim_Client[Client_ID] → Fact_DefenseContracts[Client_ID]  
+
+---
+
+## Relationship Notes
+
+- No direct relationships between fact tables  
+- No many-to-many relationships used  
+- All joins are based on surrogate keys (IDs)  
+- Model optimized for performance and scalability in Power BI  
 
 ---
 
