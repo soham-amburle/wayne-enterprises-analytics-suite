@@ -1,5 +1,5 @@
 # Wayne Enterprises | Enterprise Business Intelligence Suite (Power BI)
-by Soham S. Amburle
+**by Soham S. Amburle**
 
 ## Project Overview
 
