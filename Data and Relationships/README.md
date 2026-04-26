@@ -1,5 +1,5 @@
 ## 🗃️ Data Model & Table Structure
-
+ 
 This project follows a **Hybrid Star Schema** approach, combining the performance benefits of a star schema with selective normalization for complex dimensions.
 
 ---
