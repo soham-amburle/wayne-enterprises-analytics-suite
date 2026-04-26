@@ -1,5 +1,5 @@
 🦇 
-# Wayne Enterprises | Enterprise Business Intelligence Suite (Power BI)
+# Wayne Enterprises | Business Intelligence Suite (Power BI)
 **by Soham S. Amburle**
 
 Start Date: 10 April, 2026
