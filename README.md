@@ -1,4 +1,3 @@
-🦇 
 # Wayne Enterprises | Business Intelligence Suite (Power BI)
 **by Soham S. Amburle**
 
