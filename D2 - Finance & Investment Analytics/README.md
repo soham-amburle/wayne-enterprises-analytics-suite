@@ -4,7 +4,7 @@
 **Tool:** Power BI  
 **Dataset:** Synthetic Enterprise Operations Dataset – ~100,000 Records  
 **Dashboard Focus:** Financial Performance, Profitability & Investment Analytics  
-**Date:** 10 April 2026  
+**Date:** 10 - 15 April 2026  
 **Created by:** Soham S. Amburle  
 
 ---
