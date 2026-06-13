@@ -1,10 +1,15 @@
 # Wayne Enterprises Global Supply Chain Command Centre
 
 **Organization:** Wayne Enterprises (Fictional Enterprise Business Model)
+
 **Tool:** Power BI
+
 **Dataset:** Synthetic Enterprise Operations Dataset – ~100,000 Records
+
 **Dashboard Focus:** Supply Chain Performance, Logistics Efficiency & Operational Intelligence
+
 **Date:** 28 April – 05 May 2026
+
 **Created by:** Soham S. Amburle
 
 ---
