@@ -21,7 +21,7 @@ The system is designed as a **15-dashboard enterprise analytics suite**, similar
 2. Finance & Investment Analytics  
 3. Applied Sciences (R&D) Insights  
 4. Defense Contract Performance  
-5. Manufacturing & Supply Chain Analysis  
+5. Global Supply Chain Command Centre  
 6. Global Operations Dashboard  
 7. Marketing & Brand Performance  
 8. Sales & Partnerships Analytics  
