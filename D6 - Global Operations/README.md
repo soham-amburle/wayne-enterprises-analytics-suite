@@ -1,4 +1,4 @@
-# Wayne Enterprises Global Operations Command Centre
+# Wayne Enterprises Global Operations Command Centre 
 
 **Organization:** Wayne Enterprises (Fictional Enterprise Business Model)
 
