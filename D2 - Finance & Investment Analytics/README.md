@@ -1,4 +1,4 @@
-# Wayne Enterprises Financial Intelligence Suite – Finance & Investment Analytics
+# Wayne Enterprises Financial Intelligence Suite – Finance & Investment Analytics 
 
 **Organization:** Wayne Enterprises (Fictional Enterprise Business Model)  
 **Tool:** Power BI  
