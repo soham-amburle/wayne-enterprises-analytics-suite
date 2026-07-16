@@ -1,4 +1,4 @@
-# Wayne Enterprises Applied Sciences Intelligence Suite – R&D & Innovation Analytics
+# Wayne Enterprises Applied Sciences Intelligence Suite – R&D & Innovation Analytics 
 
 **Organization:** Wayne Enterprises (Fictional Enterprise Business Model)  
 **Tool:** Power BI  
