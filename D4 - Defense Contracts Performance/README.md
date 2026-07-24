@@ -1,6 +1,6 @@
 # Wayne Enterprises Financial Intelligence Suite – Defense Contract Performance Analytics
 
-**Organization:** Wayne Enterprises (Fictional Enterprise Business Model)
+**Organization:** Wayne Enterprises (Fictional Enterprise Business Model)  
 **Tool:** Power BI
 **Dataset:** Synthetic Enterprise Operations Dataset – ~100,000 Records
 **Dashboard Focus:** Defense Contract Profitability, Risk Assessment & Client Performance Analytics
