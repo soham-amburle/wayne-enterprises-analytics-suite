@@ -4,7 +4,7 @@
 **Tool:** Power BI
 **Dataset:** Synthetic Enterprise Operations Dataset – ~100,000 Records
 **Dashboard Focus:** Defense Contract Profitability, Risk Assessment & Client Performance Analytics
-**Date:** 20 - 27 April 2026
+**Date:** 20 - 27 April 2026 
 **Created by:** Soham S. Amburle
 
 ---
