@@ -1,4 +1,4 @@
-# Wayne Enterprises Gotham City Intelligence Analysis Dashboard
+# Wayne Enterprises Gotham City Intelligence Analysis 
  
 **Organization:** Wayne Enterprises (Fictional Enterprise Business Model)
 
